@@ -1,4 +1,4 @@
-package main
+package hello
 
 import "fmt"
 
@@ -27,5 +27,3 @@ func GetPrefix(language string) (prefix string) {
 	}
 	return
 }
-
-func main() {}
